@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">checkboxxx</string>
+    <string-array name="Countries">
+
+        <item>India</item>
+        <item>Australia</item>
+        <item>Japan</item>
+        <item>U.K</item>
+        <item>USA</item>
+        <item>Russia</item>
+    </string-array>
+
+
+</resources>
+
